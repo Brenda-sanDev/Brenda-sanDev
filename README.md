@@ -25,7 +25,7 @@ _ 🤸‍♀️ Hoje trabalho com front-end!
    <a href="https://www.linkedin.com/in/brenda-santos-b55a40249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.tiktok.com/@brenda.js16" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   
-  ![Animação de cobra](https://github.com/Brenda-sanDev/Brenda-sanDev/blob/output/github-contribution-grid-snake.svg)
+  ![Animação de cobra]![snake gif](https://github.com/Brenda-sanDev/Brenda-sanDev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
