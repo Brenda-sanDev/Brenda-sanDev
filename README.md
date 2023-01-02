@@ -2,7 +2,7 @@
 
 _ 🤸‍♀️ Hoje trabalho com front-end!
 #
- _ 🌱 Estudando React...
+ _ 🌱 Estudando React e Angular...
  
 <img align="right" alt="Brenda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1011791850144809011/1047875345300344863/Design_sem_nome.gif?width=427&height=427">
 
